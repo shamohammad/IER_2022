@@ -26,7 +26,7 @@ The statistical analyses is as follow:
 
 1) For aerobic steps check for each sample group the data distribution by means of histograms (Figure 1).
 2) For non-parametric distributions a Mann-Whitney U test (Wilcocon rank sum test) was used to compare the medians of both sample groups.
-3) The result of h and p contain the results of the statistical test.
+3) The variables h and p contain the results of the statistical test.
 4) Fit the Body Mass Index (BMI) of each sample group as normally distributed.
 5) Retrieve means and confidence intervals of BMI distributions of each sample group.
 
