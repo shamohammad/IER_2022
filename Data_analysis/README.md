@@ -54,4 +54,4 @@ wear: pedometer worn more than at least 10 hours
 The participants have given consent for the re-use of the data (Data_IER.csv) for educational purposes. Therefore the data can be used for only this purpose. Do not share the data with others.
 
 #### 5. Authors
-S. H. A. Mohammad, “Processing and statistical analyses of aerobic step data,” https://github.com/shamohammad/IER 2022.git, 2022.
+S. H. A. Mohammad, “Processing and statistical analyses of aerobic step data,” https://github.com/shamohammad/IER_2022.git, 2022.
