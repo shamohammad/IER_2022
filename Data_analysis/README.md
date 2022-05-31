@@ -1,7 +1,7 @@
 #### Processing and statistical analyses of aerobic step data
 
 #### 1. Introductory information
-Aerobic step data processing: Data_IER_proc.m
+Aerobic step data processing: Data_IER_processed.m
 
 This MATLAB file processed the original dataset (Data_IER.csv, retrieved from BrightSpace) and contains statistical analyses. 
 
